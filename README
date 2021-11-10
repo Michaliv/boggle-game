@@ -1,0 +1,7 @@
+A program which implements Boggle Game using Python GUI.
+GOAL: to find as many words in the matrix, in a three minute time cap.
+Each word found is added to the box at the bottom of the matrix, and you get
+points for it- depending on the length of the word found.
+
+Which score did you get?
+Good luck!
